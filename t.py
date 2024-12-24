@@ -48,19 +48,6 @@ A80,5,0,4,1,1,N,"*GWARANCJA*"
 A60,40,0,3,1,1,N,"{extracted_imei}"
 A60,100,0,1,1,1,N,"www.megaelektronik.pl"
 P1
-S2
-D2
-ZT
-JF
-OD
-R5,5
-Q320,28
-q300
-D20
-A80,5,0,4,1,1,N,"*GWARANCJA*"
-A60,40,0,3,1,1,N,"{extracted_imei}"
-A60,100,0,1,1,1,N,"www.megaelektronik.pl"
-P1
 """
 
             # Wyślij kod EPL do drukarki
