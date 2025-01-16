@@ -48,7 +48,11 @@ A80,5,0,4,1,1,N,"*GWARANCJA*"
 A60,40,0,3,1,1,N,"{extracted_imei}"
 A60,100,0,1,1,1,N,"www.megaelektronik.pl"
 <<<<<<< HEAD
+<<<<<<< HEAD
 P1
+=======
+P2
+>>>>>>> parent of 9c66809 (używaj t.py)
 =======
 P2
 >>>>>>> parent of 9c66809 (używaj t.py)
